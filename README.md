@@ -1,3 +1,3 @@
 # eHealthy-server
 
-Cloned server repo for rewriting eHealthy app --> Angular, C#/.NET, PostgreSQL.
+Server repo for eHealthy app using Angular, C#/.NET, PostgreSQL.
